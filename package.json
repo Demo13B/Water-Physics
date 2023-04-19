@@ -1,6 +1,6 @@
 {
     "name": "com.advanced_intellectuals.water_physics_acceleration",
-    "version": "0.2.1",
+    "version": "0.2.2",
     "displayName": "Water Physics Acceleration",
     "description": "A package for the acceleartion of water physics, using Machine Learning model",
     "unity": "2021.3",
