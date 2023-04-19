@@ -1,0 +1,16 @@
+{
+    "name": "com.advanced_intellectuals.water_physics_acceleration",
+    "version": "0.5.1",
+    "displayName": "Water Physics Acceleration",
+    "description": "A package for the acceleartion of water physics, using Machine Learning model",
+    "unity": "2021.3",
+    "unityRelease": "21f1",
+    "dependencies":{
+		"com.unity.barracuda": "2.0.0"
+	},
+	"author": {
+        "name": "Advanced Intellectuals",
+        "email": "trsalikhov@mai.education",
+        "url": "https://gitlab.mai.ru/advanced-intellectuals/water/-/tree/feature/script"
+    }
+}

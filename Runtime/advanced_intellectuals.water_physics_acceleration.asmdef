@@ -1,0 +1,6 @@
+{
+	"name": "advanced_intellectuals.water_physics_acceleration",
+	"references": [
+		"Unity.Barracuda"
+	]
+}
